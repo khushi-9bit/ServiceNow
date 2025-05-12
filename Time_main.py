@@ -4,7 +4,7 @@ from requests.auth import HTTPBasicAuth
 # Your instance details
 INSTANCE = 'dev209062'
 USERNAME = 'admin'
-PASSWORD = 'mzohH62$/MHO'
+PASSWORD = ''
 
 headers = {
     "Accept": "application/json"
